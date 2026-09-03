@@ -752,7 +752,7 @@ nav {
 .hero .name,
 .hero .tagline,
 .hero .description,
-.hero .cta-btn {
+.hero .cta-section {
     opacity: 0;
     animation: fadeInUp 1s ease-out forwards;
 }
@@ -768,7 +768,7 @@ nav {
 .hero .description {
     animation-delay: 1s;
 }
-.hero .cta-btn {
+.hero .cta-section {
     animation-delay: 1s;
 }
 
